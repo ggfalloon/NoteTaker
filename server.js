@@ -71,7 +71,7 @@ app.post("/api/notes", function (req, res) {
     });
 });
 
-// used the route the delete request to db.json 
+// Used the route the delete request to db.json 
 app.delete("/api/notes/:id", function (req, res) {
     console.log(req.params)
 
@@ -83,7 +83,7 @@ app.delete("/api/notes/:id", function (req, res) {
 
         var parseData = JSON.parse(data);
 
-        // loops through the notes and pushes all notes but the one that matches the id 
+        // Loops through the notes and pushes all notes but the one that matches the id 
         var notesToKeep = [];
 
         for (var i = 0; i < parseData.length; i++) {
