@@ -12,7 +12,7 @@ A Heroku deployed application using an Express server. Write, save and delete no
 
 ## Usage
 
-URL - 
+URL - https://quiet-peak-88900.herokuapp.com/
 
 ![NoteTakerHome](https://user-images.githubusercontent.com/71281652/104235074-0eda4300-541a-11eb-9c9d-94e65cd7c6c8.png)
 
