@@ -14,7 +14,7 @@ A Heroku deployed application using an Express server. Write, save and delete no
 
 URL - 
 
-Notes Home Page ---
+![NoteTakerHome](https://user-images.githubusercontent.com/71281652/104235074-0eda4300-541a-11eb-9c9d-94e65cd7c6c8.png)
 
 * Click the "Get Started button to create your first note.
 * Click on "Note Title" to add your title.
@@ -23,6 +23,7 @@ Notes Home Page ---
 * All of your notes are saved in the column on the left.
 * Delete saved notes by click on the red trash can icon when your tasks are complete.
 
+![NotesPage](https://user-images.githubusercontent.com/71281652/104235106-1ac60500-541a-11eb-9df3-28fa95ecd7c9.png)
 
 ## Credits
 
